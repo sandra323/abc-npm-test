@@ -1,0 +1,23 @@
+{
+  "name": "abc-npm-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandra323/abc-npm-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandra323/abc-npm-test/issues"
+  },
+  "homepage": "https://github.com/sandra323/abc-npm-test#readme",
+  "dependencies": {
+    "typescript": "^4.9.4"
+  }
+}
