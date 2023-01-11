@@ -1,5 +1,5 @@
 {
-  "name": "abc-npm-test",
+  "name": "@test/abc-npm-test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
